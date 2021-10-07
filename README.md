@@ -52,3 +52,10 @@ ray.exceptions.ObjectLostError: Object 69a6825d641b4613ffffffffffffffffffffffff0
 (pid=22753)
 
 ```
+
+
+And my `uname -a`
+
+```
+Linux DESKTOP-829UF7S 5.4.72-microsoft-standard-WSL2 #1 SMP Wed Oct 28 23:40:43 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+```
